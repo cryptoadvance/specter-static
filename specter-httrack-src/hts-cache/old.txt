@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-17:20:11	24/24	---M--	301	error ('Moved%20Permanently')	text/plain	date:Wed,%2003%20Jan%202024%2016:20:11%20GMT	http://specter.solutions/robots.txt		(from )
-17:20:12	24/24	---M--	301	error ('Moved%20Permanently')	text/plain	date:Wed,%2003%20Jan%202024%2016:20:12%20GMT	http://specter.solutions/	/home/kim/websites/specter/specter.solutions/index.html	(from )
-17:20:13	24/24	---M--	301	error ('Moved%20Permanently')	text/plain	date:Wed,%2003%20Jan%202024%2016:20:13%20GMT	http://specter.solutions/	/home/kim/websites/specter/specter.solutions/index.html	(from )
